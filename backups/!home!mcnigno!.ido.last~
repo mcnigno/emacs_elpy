@@ -1,0 +1,113 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/mcnigno/python3/django/first/mysite/" . "webapp/")
+ ("/home/mcnigno/python3/django/first/" . "mysite/")
+ ("/home/mcnigno/python3/django/" . "first/")
+ ("/home/mcnigno/python3/flaskapp/venv/lib/python3.4/" . "site-packages/")
+ ("/home/mcnigno/python3/flaskapp/venv/lib/" . "python3.4/")
+ ("/home/mcnigno/python3/" . "flaskapp/")
+ ("/home/" . "mcnigno/")
+ ("/home/mcnigno/.ipython/" . "profile_default/")
+ ("/home/mcnigno/Projects/youtubeVideo/" . "templates/")
+ ("/home/mcnigno/Projects/temp/static/" . "js/")
+ ("/home/mcnigno/.emacs.d/elpa/" . "material-theme-20160516.844/")
+ ("/home/mcnigno/.emacs.d/" . "elpa/")
+ ("/home/mcnigno/" . "python3/")
+ ("/home/mcnigno/Projects/temp/" . "templates/")
+ ("/home/mcnigno/Projects/" . "temp/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/mcnigno/python3/django/first/mysite/webapp/"
+ "/home/mcnigno/python3/django/first/mysite/mysite/"
+ "/home/mcnigno/python3/flaskapp/venv/lib/python3.4/site-packages/"
+ "/home/mcnigno/Projects/youtubeVideo/"
+ "/home/mcnigno/.ipython/profile_default/"
+ "/home/mcnigno/Projects/youtubeVideo/templates/"
+ "/home/mcnigno/Projects/temp/templates/"
+ "/home/mcnigno/Projects/temp/"
+ "/home/mcnigno/Projects/temp/static/js/"
+ "/home/mcnigno/.emacs.d/elpa/material-theme-20160516.844/"
+ "/home/mcnigno/Projects/temp/templates/test/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "views.py"
+ "urls.py"
+ "sugarcrm.py"
+ "main.py"
+ "ipython_config.py"
+ "models.py"
+ "homepage.html"
+ "homepages.html"
+ "app.py"
+ "scripts.js"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/mcnigno/python3/django/first/mysite/webapp/" (22605 19856 550034 0) "views.py" "tests.py" "admin.py" "migrations/" "#views.py#" "apps.py" "../" "models.py" ".#views.py" "__init__.py" "./")
+
+ ("/home/mcnigno/python3/django/" (22605 18121 82034 0) "first/" "../" "./")
+
+ ("/home/mcnigno/python3/django/first/" (22605 18471 174034 0) "mysite/" "venv/" "../" "./")
+
+ ("/home/mcnigno/python3/django/first/mysite/" (22605 18979 74034 0) "mysite/" "db.sqlite3" "../" "webapp/" "manage.py" "./")
+
+ ("/home/mcnigno/python3/django/first/mysite/mysite/" (22605 19749 302034 0) "__pycache__/" "settings.py" "../" "urls.py" "__init__.py" "wsgi.py" "./")
+
+ ("/home/mcnigno/python3/flaskapp/venv/lib/python3.4/site-packages/" (22604 3852 364636 0) "pip-1.5.4.dist-info/" "flake8/" "yapf/" "__pycache__/" "pip/" "pep8-1.7.0.dist-info/" "_markerlib/" "pyflakes/" "requests/" "pkg_resources.py" "setuptools-3.3.dist-info/" "requests-2.12.3.dist-info/" "rope/" "sugarcrm-0.1.2.egg-info/" "pycodestyle.py" "jedi-0.9.0.dist-info/" "yapf-0.14.0.dist-info/" "importmagic-0.1.7.egg-info/" "pep8.py" "setuptools/" "sugarcrm.py" "jedi/" "easy_install.py" "mccabe.py" "autopep8-1.2.4.dist-info/" "yapftests/" "../" "importmagic/" "flake8-3.2.1.dist-info/" "autopep8.py" "rope_py3k-0.9.4_1.egg-info/" "pyflakes-1.3.0.dist-info/" "pycodestyle-2.2.0.dist-info/" "./" "mccabe-0.5.2.dist-info/")
+
+ ("/home/mcnigno/python3/flaskapp/venv/lib/python3.4/" (22604 1196 256636 0) "site-packages/" "../" "./")
+
+ ("/home/mcnigno/python3/flaskapp/venv/lib/" (22604 1196 316636 0) "python-wheels/" "python3.4/" "../" "./")
+
+ ("/home/mcnigno/python3/flaskapp/venv/" (22604 3852 392636 0) "pyvenv.cfg" "include/" "bin/" "lib64/" "../" "lib/" "./")
+
+ ("/home/mcnigno/python3/" (22604 1093 720636 0) "../" "./" "flaskapp/")
+
+ ("/home/" (22130 62757 705239 0) "../" "mcnigno/" "./")
+
+ ("/home/mcnigno/" (22604 1075 968636 0) "Desktop/" ".ghci" ".profile" ".gvfs/" ".python_history" "venv2/" ".dbus/" ".bash_logout" "__pycache__/" ".gnome/" "Music/" ".recentf" "#python_best_practice.py#" ".xsession-errors.old" ".profile~" ".gimp-2.8/" "bin/" ".thumbnails/" ".meteorsession" ".cache/" ".ipython/" ".jackdrc" ".dropbox-dist/" ".xsession-errors" ".fltk/" ".ido.last" ".dropbox/" "Documents/" ".mozilla/" "python_best_practice.py" ".cordova/" "examples.desktop" "#.ghci#" ".emacs.d/" "#lottery.py#" "Templates/" "user/" ".oracle_jre_usage/" ".ghc/" ".dmrc" ".compiz/" ".gnome2/" "Videos/" ".local/" "mt5_credentials_demo" "Projects/" ".filezilla/" ".zynaddsubfxXML.cfg" ".bashrc" ".gconf/" ".virtualenvs/" "venv3/" "matches/" ".pip/" "../" ".config/" ".selected_editor" ".#lottery.py" ".gksu.lock" "Dropbox/" "vEnv/" "Public/" "enalotto.py" ".Xauthority" ".aMule/" "Pictures/" ".ICEauthority" "Python/" "Downloads/" ".hplip/" ".Xresources" ".bash_history" ".ssh/" ".log/" ".pki/" "python3/" ".gnubg/" ".emacs.d_hold/" "rossinilabSVG/" "./")
+
+ ("/home/mcnigno/Projects/" (22448 51570 479016 0) "deleteme/" "blog/" "fyka/" "venv/" "../" "temp/" "youtubeVideo/" "./")
+
+ ("/home/mcnigno/Projects/youtubeVideo/" (22604 1917 520636 0) ".#main.py" "app.py" "#main.py#" "__pycache__/" "config.py" "templates/" "#spidy.py#" "untitled.py" "untitled2.py" "venv/" "main.py" "../" "app2.pyc" "models.py" "app2.py" "#models.py#" "manage.py" "./" "spidy.py")
+
+ ("/home/mcnigno/Projects/temp/" (22486 54116 180529 0) "app.py" "__pycache__/" "test.py" "static/" "templates/" "#app.py#" ".#test.py" "venv/" "../" "#test.py#" "./")
+
+ ("/home/mcnigno/.ipython/profile_default/" (22587 8802 575199 0) "ipython_config.py" "pid/" "startup/" "history.sqlite" "db/" "security/" "../" "log/" "./")
+
+ ("/home/mcnigno/python3/flaskapp/" (22604 1539 136636 0) "static/" "templates/" "venv/" "../" "./")
+
+ ("/home/mcnigno/.emacs.d/" (22502 60253 14287 0) "auto-save-list/" "ac-comphist.dat" "backups/" "elpa/" "../" "places" "snippets/" "init.el" ".python-environments/" "./")
+
+ ("/home/mcnigno/.ipython/" (22427 29787 535182 0) "extensions/" "profile_default/" "../" "nbextensions/" "./")
+
+ ("/home/mcnigno/Projects/temp/templates/test/" (22446 51952 751342 0) "#new.html#" "new.html" "../" "./")
+
+ ("/home/mcnigno/Projects/temp/static/js/" (22448 13833 123016 0) "scripts.js" "../" "./")
+
+ ("/home/mcnigno/Projects/youtubeVideo/templates/" (22448 22892 735016 0) "homepage.html" "../" "./")
+
+ ("/home/mcnigno/Projects/temp/static/" (22440 25283 696139 0) "js/" "css/" "../" "images/" "./")
+
+ ("/home/mcnigno/.emacs.d/elpa/material-theme-20160516.844/" (22446 51829 163342 0) "material-theme-autoloads.el" "material-light-theme.el" "../" "material-theme-pkg.el" "material-theme.el" "material-light-theme.elc" "material-theme.elc" "./")
+
+ ("/home/mcnigno/.emacs.d/elpa/" (22446 13429 564923 0) "popup-20160709.729/" "concurrent-20160109.2046/" "websocket-20160720.2051/" "yasnippet-20160801.1142/" "python-environment-20150310.153/" "find-file-in-project-20160809.526/" "jedi-20160425.2156/" "epc-20140609.2234/" "neotree-20160802.51/" "seq-2.16/" "pyvenv-20160527.442/" "jedi-core-20160709.722/" "archives/" "material-theme-20160516.844/" "ctable-20140304.1659/" "deferred-20160109.2046/" "auto-virtualenv-20160220.636/" "epl-20150517.433/" "let-alist-1.0.4/" "monokai-theme-20160804.1231/" "elpy-20160613.1005/" "py-autopep8-20151231.614/" "flycheck-20160810.857/" "ivy-20160812.439/" "s-20160711.525/" "request-20160623.1938/" "../" "dash-20160619.611/" "highlight-indentation-20150307.208/" "better-defaults-20160619.2308/" "powerline-20160702.1931/" "ein-20160725.621/" "company-20160730.1516/" "./" "pkg-info-20150517.443/" "auto-complete-20160710.1544/" "cl-generic-0.3/")
+
+ ("/home/mcnigno/Projects/temp/templates/" (22446 20658 868923 0) "#homepages.html#" "homepages.html" "../" "test/" "./")
+
+ ("/home/mcnigno/Downloads/" (22446 15663 876923 0) "Q2A-IdeaBox-Theme-master.zip" "spacious.1.4.0.1.zip" "twentyeleven.2.4.zip" "[kat.cr]wordpress.theme.pack.8.march.2016.themeforest.shailab.torrent" "vtigercrm6.5.0.tar.gz" "qsynth-0.3.9.tar.gz" "[kat.cr]affiliatewp.v1.6.4.affiliate.marketing.plugin.for.wordpress.torrent" "emacs-neotree-dev.zip" "crm.ficsc.it-Jul-2016.gz" "reganja.sensimira.com-Jul-2016.gz" "[kat.cr]wordpress.theme.pack.5.feb.2016.themeforest.shailab.divi.2.6.2.torrent" "nature_drugs_marijuana_plants_1920x1200_wallpaper_Wallpaper_640x960_www.wallpaperswa.com.jpg" "index (1).php" "[kat.cr]wordpress.theme.pack.4.feb.2016.themeforest.shailab.torrent" "Numix_Name_of_the_Doctor_16_9.png" "minamaze.1.3.11.zip" "parabola.1.7.1.zip" "Fonthead Standard EULA.txt" "tor-browser-linux64-6.0.2_en-US.tar.xz" "font-awesome-4.6.3.zip" "vtigercrm-customerportal-6.5.0.zip" "Blair ITC.zip" "python-xmltodict_0.9.2.orig.tar.gz" "stockvault-monument-of-rome-italy106119.jpg" "MySQL-python-1.2.5.zip" "Nature-banners-set.zip" "2015_12_scadenzario.pdf" "csv_template (1).csv" "Leads.csv" "fluidsynth-1.1.6.tar.bz2" "myc-vtiger-customer-portal-master.zip" "[kat.cr]wordpress.theme.pack.9.themeforest.divi.2.7.builder.x.the.shailab.april.2016.torrent" "onetone.1.8.2.zip" "Freeware License.txt" "heat_by_mushcube-d79wm68.rar" "[kat.cr]ecommerce.with.wordpress.and.woocommerce.720p.sub.teamtreehouse.tonystark.torrent" "zerif-lite.1.8.4.4.zip" "responsive.1.9.8.4.zip" "heat__by_mushcube-d688cdq.zip" "Donut.zip" "Numix_Name_of_the_Doctor_16_10.png" "csv_template (2).csv" "lato.zip" "fotoemimacchina.zip" "csv_template.csv" "FlatBox-V1.0.2-beta.zip" "it_1_6_2.rar" "[kat.cr]themeforest.impreza.v2.3.retina.responsive.wordpress.theme.torrent" "[kat.cr]wordpress.themes.pack.3.jan.2016.themeforest.shailab.torrent" "weedblue.jpg" "folds_by_delta909-d5rpnef.zip" "sublime-text_build-3083_amd64.deb" "nusoap-master.zip" "evolve.3.6.2.zip" "05_statistica in 45 pillole_cielo.ppt" "bil_prev_eco_2016b.pdf" "emacs.d-master.zip" "pinboard.1.1.12.zip" "reganja.sensimira.com-Jul-2016 (1).gz" "q2a-wp-pack1.zip" "[kat.cr]seo.for.wordpress.how.i.hit.page.no.1.of.google.in.27.days.torrent" "numix_dance_by_0rax0-d7b1inu.zip" "grow.1.0.9.zip" "True-Crimes.zip" "qsynth-0.3.7.tar.gz" "q2am-edit-and-moderate.zip" "montserrat.zip" "question2answer-1.7.4.zip" "25-piano-sf.rar" "php.ini" "2015_11_scadenzario.pdf" "metro.zip" "buddypress.2.6.0.zip" "[kat.cr]visual.composer.v4.9.page.builder.for.wordpress.torrent" "[kat.cr]wordpress.themes.pack.1.themeforest.shailab.torrent" "[kat.cr]wordpress.development.create.wordpress.themes.and.plugins.torrent" "timidity_2.13.2-40.2_amd64.deb" "[kat.cr]web.design.training.wordpress.training.updated.sep.25.2015.torrent" "index.php" "Donut-1.6.2.zip" "Sketchy-woman-with-long-hair-background-in-art-nouveau-style.zip" "numix___name_of_the_doctor___wallpaper_by_satya164-d6hvzh7.zip" "Cpr.Sparhelt font License.txt" "emacs-neotree-dev (1).zip" "linux_2014_wallpaper_by_0rax0-d7k6cb3.zip" "vtigercrm-650-hotfix-20160714.zip" "buddypress.2.6.1.1.zip" "Mailchimp.zip" "GoodDog.zip" "TiMidity++-2.14.0 (1).tar.bz2" "Capture-it.zip" "Gold-crown-icons-set.zip" "true-crimes.ttf" "crown1.zip" "ubuntu_metal_style_logo-wallpaper-1920x1080.jpg" "[kat.cr]wordpress.theme.pack.7.march.2016.betheme.12.1.the7.3.4.1.themeforest.shailab.torrent" "TiMidity++-2.14.0.tar.bz2" "csv_template - csv_template.csv" "../" "./")
+
+ ("/home/mcnigno/Projects/temp/__pycache__/" (22446 8953 696923 0) "app.cpython-34.pyc" "../" "./")
+
+ ("/home/mcnigno/Projects/temp/venv/" (22446 2689 360923 0) "pyvenv.cfg" "include/" "bin/" "lib64/" "../" "lib/" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

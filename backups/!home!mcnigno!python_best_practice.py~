@@ -1,0 +1,54 @@
+"""
+    loop over a range of numbers
+"""
+for i in [0, 1, 2, 3, 4, 5]:
+    print(i**2)
+
+
+for i in range(6):
+    print(i**2)
+
+# xrange, lazy function ** renemad range in python3
+
+for i in range(6):
+    print(i**2)
+
+
+"""
+    looping over a collection
+"""
+
+colors = ['red', 'green', 'blue', 'yellow']
+
+for i in range(len(colors)):
+    print(colors[i])
+
+for color in colors:
+    print(color)
+
+# looping backwards
+
+for color in reversed(colors):
+    print(color)
+
+
+"""
+    looping over a collection and indices
+"""
+
+for i in range(len(colors)):
+    print(i, '-->', colors[i])
+
+for i, color in enumerate(colors):
+    print(i, '2-->', color)
+
+names = ['raymond', 'rachel', 'matthew', 'maria']
+
+n = min(len(names), len(colors))
+for i in range(n):
+    print(names[i], ' --> ', colors[i])
+
+b = [1, 2, 9, 6, 5, 7, 3, 2]
+print(b)
+c = [12, "dfdf", 3.4]
+print(c)

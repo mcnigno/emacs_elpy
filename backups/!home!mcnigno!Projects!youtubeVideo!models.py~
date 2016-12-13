@@ -1,0 +1,54 @@
+import datetime
+from app import db
+ 
+
+
+class YouTubeLink(db.Model):
+    __tablename__='youtubelink'
+    id = db.Column(db.Integer, primary_key=True)
+    id_video = db.Column(db.String(100))
+    title = db.Column(db.String (100))
+    lang = db.Column(db.String (100))
+    created_timestap = db.Column(db.DateTime, default=datetime.datetime.now)
+    modified_timestamp = db.Column(
+    db.DateTime,
+    default=datetime.datetime.now,
+    onupdate=datetime.datetime.now)
+
+    sentences = db.relationship('Sentence', backref=db.backref('link'))
+
+
+    def __init__(self, *args, **kwargs):
+    	super(YouTubeLink, self).__init__(*args, **kwargs)
+
+    def __repr__(self):
+    	return '<YouTubeLink: %s>' % self.title
+
+
+class Sentence(db.Model):
+    __tablename__='sentences'
+    id = db.Column(db.Integer, primary_key=True)
+    start = db.Column(db.String(100))
+    dur = db.Column(db.String(100))
+    text = db.Column(db.Text)
+    created_timestap = db.Column(db.DateTime, default=datetime.datetime.now)
+    modified_timestamp = db.Column(
+    db.DateTime,
+    default=datetime.datetime.now,
+    onupdate=datetime.datetime.now)
+    
+    link_id = db.Column(db.Integer, db.ForeignKey('youtubelink.id'))
+    
+    
+    
+
+    def __init__(self, *args, **kwargs):
+        super(Sentence, self).__init__(*args, **kwargs)
+
+    def __repr__(self):
+        return '<Sentence: %s>' % self.text
+
+#Entry.text = db.relationship('Sentences', backref= db.backref('text'))
+
+#test = Entry(id_video='DSDADA', title='IL TITOLO....')
+#print(Entry)

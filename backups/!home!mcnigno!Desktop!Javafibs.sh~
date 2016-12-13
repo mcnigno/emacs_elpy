@@ -1,0 +1,3 @@
+#!/bin/bash
+cd /usr/local/bin/JavaFIBS2001/
+java -jar JavaFIBS-1.0.11_JDK13.ja

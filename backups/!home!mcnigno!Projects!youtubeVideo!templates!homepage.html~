@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title></title>
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <link rel="stylesheet" href="css/styles.css?v=1.0">
+  <!--[if lt IE 9]>
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+</head>
+<body>
+
+<h1>Video 2</h1>
+
+
+<iframe id="ytplayer" type="text/html" width="720" height="405"
+src="https://www.youtube.com/embed/M7lc1UVf-VE?
+autoplay=1&
+cc_load_policy=1&
+disablekb=1&
+enablejsapi=1&
+end=12&
+hl=en&
+loop=1&
+rel=0&
+showinfo=0&
+start=7&
+iv_load_policy=3"
+frameborder="0" allowfullscreen>
+ 
+ 
+	<!-- run javascript at the end -->
+  <script src="js/scripts.js"></script>
+</body>
+</html>

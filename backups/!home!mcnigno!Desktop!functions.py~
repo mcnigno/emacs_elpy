@@ -1,0 +1,14 @@
+def f(x):
+    return x + 3
+
+print(f(4))
+
+
+def g(x):
+    print('x=', x, '-2 x', f(x))
+    return -2 * (f(x))
+
+
+def test(func, r1, r2):
+    for x in range(r1, r2):
+        print('x=', x, '-->', func(x))
